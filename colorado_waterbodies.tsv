@@ -1,0 +1,276 @@
+Geonames	Waterbody Name	 Number of Stations	Is drinking water	Cyanobacteria exposure category	CyAN object ID	centroid latitude	centroid longitude	area (km2)	elevation (m)	CyAN data	COEPHT data	Cells present	toxins tested	toxins detected	zipcode adjacent	is recreation	zipcode water source	Notes	More information
+https://www.geonames.org/5411387/adams-lake.html	Adams Lake	1				37.40068	-105.85341			Y		Y							
+https://www.geonames.org/5411395/adobe-creek-reservoir.html	Adobe Creek Reservoir	4	Yes	chronic	2679736	38.26189195	-103.246414	19.3	1258.8	Y	N	Y	N		there are only two houses that live near this reservoir	Yes		aka Blue Lake	https://www.uncovercolorado.com/activities/adobe-creek-reservoir-swa/
+https://www.geonames.org/5411843/anderson-reservoir-number-1.html	Anderson Reservoir No. 1	1				39.03065	-108.12752			Y		Y							
+https://www.geonames.org/5411844/anderson-reservoir-number-2.html	Anderson Reservoir No. 2	1				39.03588	-108.12429			Y		Y							
+https://www.geonames.org/5574300/annex-reservoir-number-8.html	Annex Reservoir No. 8	1				40.65196	-105.05857			Y		Y							
+https://www.geonames.org/5411963/antero-reservoir.html	Antero Reservoir	4	Yes		234012	38.98745132	-105.9157	9.01	2726.36	Y	Y	Y	Y	N				toxins tested and not detected in one year	
+https://www.geonames.org/5427782/lake-arbor.html	Arbor Lake	1				39.84327	-105.06664			N	Y		Y	Y				ask COEPHT - If toxins were tested, does that mean cells were present? - aka Lake Arbor; toxins tested in two years and detected in one	
+https://www.geonames.org/5412356/aurora-reservoir.html	Aurora Reservoir	3	Yes		718672	39.61071964	-104.663137	2.98	1806.68	Y		Y							
+https://www.geonames.org/5412360/aurora-rampart-reservoir.html	Aurora-Rampart Reservoir	1				39.44924	-105.06564			Y		Y							
+https://www.geonames.org/5574425/bacon-lake.html	Bacon Lake	1				40.31209	-105.06254			Y		Y							
+https://www.geonames.org/5574512/barnes-meadow-reservoir.html	Barnes Meadow Reservoir	1				40.598	-105.83082			Y		Y							
+https://www.geonames.org/5412778/barr-lake.html	Barr Lake	3		chronic	1747679	39.94325449	-104.764417	6.98	1552.79	Y	Y	Y	Y	Y	80601, 80603, 80022	Yes		Toxins measured and detected in multiple years	https://cpw.state.co.us/placestogo/parks/barrlake
+https://www.geonames.org/5574526/base-line-reservoir.html	Baseline Reservoir	1				39.99678	-105.20545			Y		Y							
+https://www.geonames.org/5412905/bauer-lake.html	Bauer Lake	1		chronic		37.38228	-108.30337			Y	N	Y	N		81328	Yes			
+https://www.geonames.org/5413043/bear-creek-lake.html	Bear Creek Lake	2		chronic		39.65078	-105.14362			Y	Y	Y	Y	Y	80465, 80227, 80235	Yes		Toxins measured and detected in multiple years	
+https://www.geonames.org/5413210/beaver-creek-reservoir.html	Beaver Creek Reservoir	1				37.59143	-106.6621			N	Y		Y						
+https://www.geonames.org/5574650/beaver-reservoir.html	Beaver Reservoir	1				40.11706	-105.52316			Y		Y							
+https://www.geonames.org/5413302/beckwith-reservoir.html	Beckwith Reservoir	1				37.94635	-104.86195			Y		Y							
+https://www.geonames.org/5427823/lake-erie.html	Lake Erie	1				39.9337	-104.96128			N	Y		N					aka Lake Avery - in Avery Lake Estates	
+https://www.geonames.org/5574749/big-creek-lakes.html	Big Creek Lakes	2				40.92454	-106.61241			Y		Y							
+https://www.geonames.org/5413779/big-lake.html	Big Lake	1				37.36216	-106.37917			Y		Y							
+https://www.geonames.org/5413789/big-meadows-reservoir.html	Big Meadows Reservoir	1				37.53706	-106.80432			Y	Y	Y	Y	N				Toxins measured and not detected in two years	
+https://www.geonames.org/5574824/bijou-number-2-reservoir.html	Bijou Number 2 Reservoir	2		chronic		40.28495	-103.97583			Y	N	Y	N			No			https://dwr.state.co.us/Tools/Structures/0103570
+https://www.geonames.org/5574861/black-hollow-reservoir.html	Black Hollow Reservoir	1		chronic		40.61129	-104.87847			Y	N	Y	N			No			https://coloradobirdingtrail.com/site/black-hollow-reservoir/
+https://www.geonames.org/5414114/black-lake.html	Black Lake	1				39.79162	-106.27294			Y		Y							
+https://www.geonames.org/5414371/blue-mesa-reservoir.html	Blue Mesa Reservoir	4	Yes	chronic	3370772	38.47136954	-107.211314	36.19	2293.17	Y	N	Y	N			Yes			https://www.uncovercolorado.com/activities/blue-mesa-reservoir/
+https://www.geonames.org/5414433/blunn-reservoir.html	Blunn Reservoir	1				39.82344	-105.21019			Y		Y							
+https://www.geonames.org/5574957/boettcher-lake.html	Boettcher Lake	1				40.82452	-106.5146			Y		Y							
+https://www.geonames.org/5414543/bonham-reservoir.html	Bonham Reservoir	1		chronic		39.09976	-107.90275			Y	N	Y	N			Yes			
+https://www.geonames.org/5575034/boulder-reservoir.html	Boulder Reservoir	1				40.07833	-105.22195			Y		Y							
+https://www.geonames.org/5575142/boyd-lake.html	Boyd Lake	3			5176454	40.43358305	-105.033538	6.57	1509.5	Y	Y	Y	Y	N				Toxins measured and not detected in two years	
+https://www.geonames.org/5575331/burch-lake.html	Burch Lake	1				40.20018	-105.18652			Y		Y							
+https://www.geonames.org/5575435/calkins-lake.html	Calkins Lake	2				40.18222	-105.03905			Y		Y							
+https://www.geonames.org/5575534/carter-lake-reservoir.html	Carter Lake Reservoir	3				40.33524	-105.21786			N	Y		Y	N				toxins tested and not detected in one sample	
+https://www.geonames.org/5416312/castle-number-4-reservoir.html	Castle Number 4 Reservoir	1				37.851	-107.25474			Y	N	Y	N						
+https://www.geonames.org/5416458/cedar-brook-lake.html	Cedar Brook Lake	1				39.36972	-107.04519			N	Y							double check location with COEPHT - aka Lake Christine	
+	Cell No. 1	Ken Mitchell Park								N	Y		Y	Y				in Brighton CO, water body labeled as Cell No. 1, found on map, but not in geonames; toxins tested and detected in one year	
+https://www.geonames.org/5575631/chambers-lake.html	Chambers Lake	1				40.60452	-105.85338			Y	Y	Y	Y	N				toxins measured and not detected in one year	
+	Chatfield Dog Park Pond - East	1								N	Y		Y	N				found it on map, but not in Geonames, north of chatfield reservoir; toxins measured and not detected in one year	
+	Chatfield Dog Park Pond - West	1								N	Y		Y	N				found it on map, but not in Geonames, north of chatfield reservoir; toxins measured and not detected in one year	
+https://www.geonames.org/5416756/chatfield-lake.html	Chatfield Lake	4	Yes		2406607	39.54489497	-105.067085	5.62	1656.11	Y	Y	Y	Y	N				Toxins measured and not detected in multiple years	
+https://www.geonames.org/5416775/cheesman-lake.html	Cheesman Lake	3	Yes			39.19547	-105.28456			Y		Y							
+https://www.geonames.org/5416788/cheraw-lake.html	Cheraw Lake	2		chronic		38.09917	-103.513			Y	N	Y	N		81030	No			https://coloradobirdingtrail.com/site/lake-cheraw/
+https://www.geonames.org/5416812/cherry-creek-lake.html	Cherry Creek Reservoir	4	Yes	chronic	3072796	39.64021408	-104.855505	3.59	1691.84	Y	Y	Y	Y	Y	80014	Yes		Toxins measured and detected in multiple years	https://cpw.state.co.us/placestogo/parks/CherryCreek
+https://www.geonames.org/5575745/clark-reservoir.html	Clark Reservoir	1		chronic		40.74261	-104.98515			Y	N	Y	N			Unclear - maybe fishing			
+https://www.geonames.org/5417190/clear-creek-reservoir.html	Clear Creek Reservoir	2				39.01951	-106.25703			Y		Y							
+https://www.geonames.org/5575824/cobb-lake.html	Cobb Lake	1				40.64194	-104.9652			Y	Y	Y	Y	N				aka Cobb SWA; toxins tested and not detected in one year	
+https://www.geonames.org/5417458/colby-horse-park-reservoir.html	Colby Horse Park Reservoir	1		chronic		39.08123	-107.79465			Y	N	Y	N			Unclear			
+https://www.geonames.org/5575854/college-lake.html	College Lake	1				40.58019	-105.15			Y		Y							
+https://www.geonames.org/5575916/comanche-reservoir.html	Comanche Reservoir	1				40.58386	-105.65154			Y		Y							
+https://www.geonames.org/5417853/continental-reservoir.html	Continental Reservoir	1		chronic		37.8759	-107.22352			Y	N	Y	N			Yes			https://www.fs.usda.gov/recarea/riogrande/recarea/?recid=28976
+https://www.geonames.org/7250253/cooley-lake.html	Cooley Lake	1				39.58639	-105.03694			Y		Y							
+https://www.geonames.org/5576039/cowdrey-reservoir.html	Cowdry Reservoir	1				40.83729	-106.31357			Y	N	Y	N						
+https://www.geonames.org/5576070/craig-pit.html	Craig Pit	1								Y		Y						doesn't exactly match geonames, but its close	
+https://www.geonames.org/5418474/crawford-reservoir.html	Crawford Reservoir	2			3400757	38.68292832	-107.601103	1.52	1998.74	Y	Y	Y	Y	Y				Toxins measured in two years and detected in one year	
+https://www.geonames.org/5576160/curtis-lake.html	Curtis Lake	1				40.66382	-105.13259			Y		Y							
+https://www.geonames.org/5419532/deweese-dye-reservoir.html	Deweese-Dye Reservoir	4		chronic	4540968	38.20268348	-105.463425	1.29	2337.42	Y	Y	Y	Y	Y	81252 - if prevailing winds are blowing to the south	Yes		Toxins measured and detected in multiple years	https://en.wikipedia.org/wiki/DeWeese_Reservoir
+https://www.geonames.org/5419615/dillon-reservoir.html	Dillon Reservoir	8	Yes	chronic	3245597	39.60157872	-106.057963	13.03	2749.94	Y	Y	Y	Y	N	80435	Yes		only tested for toxins once	https://www.summitcountyco.gov/234/Dillon-Reservoir-Recreation
+https://www.geonames.org/5576412/dixon-reservoir.html	Dixon Lake/Reservoir	Dixon Lake/Reservoir				40.54999	-105.14093			N	Y	Y	Y	N				only tested for toxins once	
+https://www.geonames.org/5576461/douglas-reservoir.html	Douglas Reservoir	2			3327301	40.702462	-105.082418	2.13	1586.99	Y	Y	Y	Y	N				Toxins measured in two years and not detected	
+https://www.geonames.org/5576482/dowdy-lake.html	Dowdy Lake	1								Y	Y	Y	Y	N				geonames centroid seems off: toxins measured in one year and not detected	
+https://www.geonames.org/5420775/eastdale-reservoir-number-1.html	Eastdale Reservoir Number 1	1				37.05424	-105.61201			Y		Y							
+https://www.geonames.org/5576696/eaton-reservoir.html	Eaton Reservoir	1				40.94071	-105.71667			Y		Y							
+https://www.geonames.org/5420810/echo-canyon-reservoir.html	Echo Canyon Reservoir	1				37.21226	-106.99507			Y	Y	Y	Y	N				toxins tested in one year only and not detected	
+https://www.geonames.org/5420899/eggleston-lake.html	Eggleston Lake	1				39.04444	-107.94067			N	Y		Y					toxins tested in one year only and not detected	
+https://www.geonames.org/5576745/elder-reservoir.html	Elder Reservoir	1				40.65023	-105.04083			Y		Y							
+https://www.geonames.org/5420968/electra-lake.html	Electra Lake	4			5335457	37.56727895	-107.805926	3.25	2537.14	Y	Y	Y	Y	N				toxins measured and not detected in multiple years	
+https://www.geonames.org/5421014/elevenmile-canyon-reservoir.html	Elevenmile Canyon Reservoir	6	Yes	chronic		38.93004	-105.51851			Y	Y	Y	Y	Y		Yes		toxins measured in many samples from two years and detected in many samples from only one of those years	https://www.denverwater.org/recreation/eleven-mile-canyon-resevoir
+https://www.geonames.org/5576756/elk-head-reservoir.html	Elk Head Reservoir	5				40.55831	-107.38728			Y		Y							
+https://www.geonames.org/5421170/emerald-lake.html	Emerald Lake	1				37.55295	-107.44661			Y		Y							
+https://www.geonames.org/5576835/empire-reservoir.html	Empire Reservoir	4		chronic		40.26782	-104.1625			Y	N	Y	N		80654 - maybe	Yes - members only			https://www.uncovercolorado.com/activities/empire-reservoir/
+https://www.geonames.org/5577044/fish-creek-reservoir.html	Fish Creek Reservoir	1				40.49431	-106.69997			Y		Y							
+https://www.geonames.org/5422048/flowing-park-reservoir.html	Flowing Park Reservoir	1				38.95859	-108.10422			Y	N	Y	N						
+https://www.geonames.org/5422158/fort-lyons-reservoir.html	Fort Lyons Reservoir	1		chronic		38.20526	-102.55483			Y	N	Y	N			Unclear			
+https://www.geonames.org/5577172/fossil-creek-reservoir.html	Fossil Creek Reservoir	2		chronic		40.49032	-105.00809			Y	N	Y	N		80528	Yes - restricted			https://www.fcgov.com/naturalareas/finder/fcr
+https://www.geonames.org/5577179/foster-reservoir.html	Foster Reservoir	1				40.1946	-104.98842			Y		Y							
+https://www.geonames.org/5422533/fruit-growers-reservoir.html	Fruit Growers Reservoir	2		chronic		38.82947	-107.94537			Y	Y	Y	Y	Y		Yes - no water contact activities		toxins measured in three years and detected in two	https://www.recreation.gov/camping/gateways/53
+https://www.geonames.org/5423500/gould-reservoir.html	Gould Reservoir	1				38.60268	-107.57942			Y		Y							
+https://www.geonames.org/5577532/grand-lake.html	Grand Lake	1				40.24357	-105.81465			Y		Y							
+https://www.geonames.org/5423695/grass-valley-reservoir.html	Grass Valley Reservoir	2								Y	Y	Y							
+https://www.geonames.org/5423793/great-western-reservoir.html	Great Western Reservoir	1		chronic		39.89704	-105.1534			Y	N	Y	N		80027, 80021	Yes			plutonium?
+https://www.geonames.org/5423850/green-mountain-reservoir.html	Green Mountain Reservoir	4	Yes		2761511	39.87136202	-106.285201	8.27	2423.61	Y	Y	Y	Y	N				toxins tested in one year only and not detected	
+https://www.geonames.org/5423943/griffith-lake.html	Griffith Lake	1								Y		Y							
+https://www.geonames.org/5424005/gross-reservoir.html	Gross Reservoir	8	Yes		2769029	39.9466131	-105.369743	1.68	2220.44	Y		Y							
+https://www.geonames.org/5424261/hallenbeck-reservoir.html	Hallenbeck Reservoir	1				38.96925	-108.29126			Y		Y							
+https://www.geonames.org/5577751/halligan-reservoir.html	Halligan Reservoir	1			5173121	40.8819	-105.34877			Y		Y							
+	Hamilton Reservoir	1		chronic						Y	N	Y	N			No		not named in geonames	https://coloradobirdingtrail.com/site/hamilton-reservoir/
+https://www.geonames.org/5577768/handy-reservoir.html	Handy Reservoir	1			2230355	40.32852	-105.11616			Y		Y							
+https://www.geonames.org/5424549/haviland-lake.html	Haviland Lake	1				37.53518	-107.81067			Y		Y							
+https://www.geonames.org/5424691/heart-lake-reservoir.html	Heart Lake Reservoir	1			2160329	39.76769	-107.32569			Y		Y							
+	Henderson Tailings Pond	2								Y		Y						found on map, but not in geonames	
+https://www.geonames.org/5424851/hermit-lakes.html	Hermit Lakes	1		chronic		37.79765	-107.23871			Y	N	Y	N			Unclear			
+https://www.geonames.org/5424854/hermit-number-1-reservoir.html	Hermit Number 1 Reservoir	1		chronic		37.8043	-107.22453			Y	N	Y	N			Unclear			
+https://www.geonames.org/5577969/hertha-reservoir.html	Hertha Reservoir	1				40.31923	-105.16542			Y		Y							
+https://www.geonames.org/5578016/highland-reservoir-number-2.html	Highland Reservoir Number 2	1		chronic		40.25177	-105.14404			Y	N	Y	N		80513 - maybe	Yes			https://lakemonster.com/lake/-COLORADO-/Highland-Reservoir-Number-2-4137
+https://www.geonames.org/5425054/highline-lake.html	Highline Lake	1				39.27465	-108.83974			Y	Y	Y	Y	N				toxins tested and not detected in one year	
+https://www.geonames.org/5425224/holbrook-reservoir.html	Holbrook Reservoir	2		chronic	1477765	38.06334149	-103.610183	2.22	1269.2	Y	Y	Y	N			Yes			https://coloradobirdingtrail.com/site/holbrook-reservoir-swa/
+https://www.geonames.org/5425237/holita-reservoir.html	Holita Reservoir	1		chronic		37.65973	-104.74153			Y	N	Y	N			Unclear			
+https://www.geonames.org/5425242/hollenbeck-reservoir-number-two.html	Hollenbeck Reservoir Number 2	1				39.01644	-108.13536			Y		Y							
+https://www.geonames.org/5425308/homestake-reservoir.html	Homestake Reservoir	3	Yes		991959	39.35789534	-106.467996	1.35	3128.96	Y		Y							
+https://www.geonames.org/5425482/horse-creek-reservoir.html	Horse Creek Reservoir	4		chronic		38.17615	-103.40098			Y	N	Y	N			Yes		aka timber Lake	https://cpw.state.co.us/swa/Horse%20Creek%20Reservoir%20SWA%20(Timber%20Lake)
+https://www.geonames.org/5578151/horseshoe-lake.html	Horseshoe Lake	1				40.43954	-105.05634			Y		Y							
+https://www.geonames.org/5425573/horseshoe-lake-reservoir.html	Horseshoe Lake Reservoir	Horseshoe Lake Reservoir				37.60831	-104.84646			Y	Y	Y	Y	N				aka Horseshoe Reservoir; toxins tested in two years and not detected	
+https://www.geonames.org/5578164/horsetooth-reservoir.html	Horsetooth Reservoir	6	Yes		3002077	40.55826541	-105.159478	7.36	1645.11	Y	Y	Y	Y						
+https://www.geonames.org/5578177/hourglass-reservoir.html	Hourglass Reservoir	1				40.57932	-105.63193			Y		Y							
+https://www.geonames.org/5578306/indian-creek-reservoir.html	Indian Creek Reservoir	1		chronic		40.74851	-104.95481			Y	N	Y	N			Yes			
+https://www.geonames.org/5578377/ish-reservoir.html	Ish Reservoir	1		chronic	6811866	40.25776	-105.09111			Y	N	Y	N		80513 - maybe	No			https://coloradobirdingtrail.com/site/ish-reservoir/
+https://www.geonames.org/5426248/island-lake.html	Island Lake	1				39.0376	-107.99873			N	Y	Y	Y	N				toxins tested and not detected in one year	
+https://www.geonames.org/5578429/jackson-reservoir.html	Jackson Reservoir/Lake	5		chronic	1988702	40.39189132	-104.073692	9.85	1350.36	Y	Y	Y	Y	Y		Yes		toxins tested in two years and detected in one year	https://cpw.state.co.us/placestogo/parks/JacksonLake
+https://www.geonames.org/5426605/joe-moore-reservoir.html	Joe Moore Reservoir	1				37.42268	-108.31653			N	Y		Y	Y				toxins tested in two years and detected in one year	
+https://www.geonames.org/5426638/john-martin-reservoir.html	John Martin Reservoir	3			3729695	38.0730372	-103.028006	47.29	1174.28	Y	Y	Y	Y	N				only tested for toxins once, but cells observed for four years	
+https://www.geonames.org/5578571/julesburg-reservoir.html	Julesburg Reservoir	7		chronic		40.93137	-102.65055			Y	N	Y	N			Yes			https://www.colorado.com/wildlife-viewing-refuges/jumbo-reservoir-state-wildlife-area
+	Jumbo Reservoir	Jumbo Reservoir (Julesburg)			3203579	40.93137982	-102.650547	5.74	1128.98	Y	Y		Y	Y				Used to be part of Julesburg Reservoir? - toxins tested and detected in one year	
+https://www.geonames.org/5426847/juniata-reservoir.html	Juniata Reservoir	1				38.96643	-108.28132			Y		Y							
+https://www.geonames.org/5429910/main-reservoir.html	Kendrick Main Reservoir	1				39.69499	-105.11554			Y		Y						Aka Main Reservoir	
+https://www.geonames.org/5427649/kriley-pond.html	Kriley Pond	1				39.8342	-105.42986			N	Y		Y	N				toxins tested and not detected in one year only	
+https://www.geonames.org/5427702/la-jara-reservoir.html	La Jara Reservoir	4			7347292	37.26745616	-106.353294	2.92	2957.35	Y	Y	Y	Y	N				only tested for toxins one year at two stations despite cell being present four years	
+https://www.geonames.org/5578804/lagerman-reservoir.html	Lagerman Reservoir	1		chronic		40.13383	-105.18788			Y	N	Y	N		80544	Yes			https://bouldercounty.gov/open-space/parks-and-trails/lagerman/
+https://www.geonames.org/5574164/lake-agnes.html	Lake Agnes	1				40.35244	-106.59502			Y		Y							
+https://www.geonames.org/5578812/lake-catamount.html	Lake Catamount	3			3037925	40.35382756	-106.807108	2.12	2101.68	Y	Y	Y	Y	N				only tested for toxins once despite cells being observed four years	
+https://www.geonames.org/5578828/lake-granby.html	Lake Granby	9	Yes		7025240	40.15554311	-105.848456	28.63	2524.78	Y	Y	Y	Y	N				sometime spelled Grandby: toxins tested and not detected in one year only	
+https://www.geonames.org/5424536/lake-hatcher.html	Lake Hatcher	1		chronic		37.31623	-107.11299			Y	N	Y	N			Yes			
+https://www.geonames.org/5427951/lake-henry.html	Lake Henry	2		chronic	2130674	38.26418	-103.70927			Y	N	Y	N						
+https://www.geonames.org/5578508/lake-john.html	Lake John	2				40.7788	-106.47003			Y		Y							
+https://www.geonames.org/5578834/lake-loveland.html	Lake Loveland	1				40.41223	-105.08741			Y		Y							
+https://www.geonames.org/5430781/lake-meredith.html	Lake Meredith	5		chronic	2130676	38.19091	-103.7035			Y	N	Y	N		81076	Yes			
+	Lake Nighthorse	1								N	Y		Y	N				found on map, but not in geonames, southwest of Durango; toxins tested and not detected in two years	
+https://www.geonames.org/5427903/lake-pagosa.html	Lake Pagosa	1		chronic		37.27953	-107.0825			Y	N	Y	N			Yes			
+https://www.geonames.org/5427912/lake-san-cristobal.html	Lake San Cristobal	2			960847	37.96989	-107.29147			Y		Y							
+https://www.geonames.org/5578842/lake-thomas.html	Lake Thomas	1		chronic		40.2237	-104.95181			Y	N	Y	N			Yes			https://coloradobirdingtrail.com/site/prince-lakes-erie-and-thomas-reservoirs/
+https://www.geonames.org/5578943/left-hand-reservoir.html	Left Hand Reservoir	1				40.06764	-105.56261			Y		Y							
+https://www.geonames.org/5578954/leggett-and-hillcrest-reservoir.html	Leggett and Hillcrest Reservoir	1			6021792	40.02463	-105.19411			Y		Y							
+https://www.geonames.org/5428284/lemon-reservoir.html	Lemon Reservoir	2			3491082	37.39981	-107.66276			Y		Y							
+https://www.geonames.org/5428321/leon-lake.html	Leon Lake	1				39.07083	-107.81051			Y		Y							
+https://www.geonames.org/5579021/lindenmeier-lake.html	Lindenmeier Lake	1				40.60991	-105.05071			Y	Y	Y	Y	N				toxins tested and not detected in one sample only	
+https://www.geonames.org/5579194/lon-hagler-reservoir.html	Lon Hagler Reservoir	1				40.36557	-105.14927			Y	Y	Y	Y	N				toxins tested and not detected in one year only	
+https://www.geonames.org/5579232/lonetree-reservoir.html	Lonetree Reservoir	2		chronic						Y		Y			80537, 80513	Yes?			https://www.poudrepaddlers.org/lonetree-reservoir.html
+https://www.geonames.org/5579239/long-draw-reservoir.html	Long Draw Reservoir	1				40.49914	-105.78657			Y		Y							
+https://www.geonames.org/5579272/long-pond-reservoir.html	Long Pond	1				40.62199	-105.05269			Y	N	Y	N						
+https://www.geonames.org/5579380/loveland-reservoir.html	Loveland Reservoir	1				40.31695	-105.09756			Y		Y							
+https://www.geonames.org/5429597/lower-dome-reservoir.html	Lower Dome Reservoir	Dome Lakes				38.2053	-106.73424			N	Y		Y	Y				Toxins measured in two years and detected in one year	
+https://www.geonames.org/5579403/lower-latham-reservoir.html	Lower Latham Reservoir	1		chronic	4518843	40.34587	-104.6389			Y	N	Y	N			No			https://coloradobirdingtrail.com/site/lower-latham-reservoir/
+https://www.geonames.org/5579464/mac-farlane-reservoir.html	Mac Farlane Reservoir	1		chronic	5740450	40.5463	-106.28708			Y	N	Y	N			No/Little			https://coloradobirdingtrail.com/site/macfarlane-reservoir/
+https://www.geonames.org/5429796/mack-mesa-lake.html	Mack Mesa Lake	1				39.28241	-108.84321			N	Y								
+https://www.geonames.org/5430102/maria-reservoir.html	Maria Reservoir	1				37.67554	-104.6801			Y		Y							
+https://www.geonames.org/5579551/mariano-reservoir.html	Mariano Reservoir	1			7296720	40.38653	-105.14234			Y		Y							
+https://www.geonames.org/5430175/marston-lake.html	Marston Lake	1	Yes		4372389	39.62962	-105.0681			Y		Y							
+https://www.geonames.org/5430199/martin-lake.html	Martin Lake	1				37.48011	-107.2403			N	Y		Y	N				toxins tested and not detected in two years	
+https://www.geonames.org/5430193/martin-lake-reservoir.html	Martin Lake Reservoir	1				37.6092	-104.83527											I think the COEPHT data are from Martin Lake Reservoir - not Martin Lake	
+https://www.geonames.org/5430397/mayham-lake.html	Mayham Lake	1		chronic		39.81912	-105.04441			Y	N	Y	N		80030	Yes			
+https://www.geonames.org/5579698/mcintosh-lake.html	McIntosh Lake	1		chronic		40.19385	-105.15141			Y	N	Y	N		80501, maybe 80503	Yes			https://www.longmontcolorado.gov/Home/Components/FacilityDirectory/FacilityDirectory/86/56?npage=2
+https://www.geonames.org/5430568/mckay-lake.html	McKay Lake	1				39.95365	-105.01198			Y		Y							
+https://www.geonames.org/5430439/mclellan-reservoir.html	McLellan Reservoir	1				39.56859	-105.01606			Y		Y							
+https://www.geonames.org/5430649/mcphee-reservoir.html	McPhee Reservoir	12	Yes		5901149	37.5250185	-108.548192	17.54	2111.47	Y	Y	Y	Y	N				toxins tested and not detected in only one sample	
+https://www.geonames.org/5579744/meadow-creek-reservoir.html	Meadow Creek Reservoir	2	Yes	chronic		40.05466	-105.74648			Y	N	Y	N			Yes		found on map, not in Geonames	
+	Midwestern Farms SWA	1								N	Y							Ask COEPHT where this is, West of Holly CO	
+https://www.geonames.org/5579915/milton-reservoir.html	Milton Reservoir	2		chronic	7053593	40.22868	-104.63896			Y	N	Y	N			Yes			
+https://www.geonames.org/5579987/monarch-lake.html	Monarch Lake	1				40.10573	-105.74183			Y		Y							
+https://www.geonames.org/5431704/montgomery-reservoir.html	Montgomery Reservoir	1				39.35566	-106.0758			Y		Y							
+https://www.geonames.org/5431763/monument-lake.html	Monument Lake	1				37.2137	-105.04688			Y		Y							
+https://www.geonames.org/5431933/morrow-point-reservoir.html	Morrow Point Reservoir	3	Yes		750033	38.44713298	-107.47086	3.14	2164.82	Y		Y							
+https://www.geonames.org/5431996/mount-elbert-forebay.html	Mount Elbert Forebay	1			925671	39.10709	-106.35893			Y		Y							
+https://www.geonames.org/5432071/mountain-home-reservoir.html	Mountain Home Reservoir	1				37.39379	-105.38663			Y		Y							
+https://www.geonames.org/5580167/mulligan-reservoir.html	Mulligan Reservoir	1				40.21226	-104.9893			Y		Y							
+https://www.geonames.org/5432332/narraguinnep-reservoir.html	Narraguinnep Reservoir	1			392965	37.49169	-108.62354			Y		Y							
+https://www.geonames.org/5480865/navajo-reservoir.html	Navajo Reservoir	4	Yes		7057132	37.01794	-107.38642			Y	Y	Y	Y	Y				tested and detected in one year	
+https://www.geonames.org/5432454/neegronda-reservoir.html	Neegronda Reservoir	3		chronic	5572077	38.303	-102.75508			Y	N	Y	N			Yes			https://coloradobirdingtrail.com/site/neegronda-reservoir/
+https://www.geonames.org/5432455/neenoshe-reservoir.html	Neenoshe Reservoir	1			5331182	38.33768	-102.68987			Y	N	Y	N						
+https://www.geonames.org/5432458/neeskah-reservoir.html	Neeskah Reservoir	2		chronic	27597	38.29004565	-102.644494			Y	N	Y	N			Yes			https://coloradobirdingtrail.com/site/queens-reservoirs/
+https://www.geonames.org/5580290/newell-lake.html	Newell Lake	1				40.313	-105.04324			Y		Y							
+https://www.geonames.org/5580350/north-delaney-lake.html	North Delaney Lake	1				40.71745	-106.46432			Y		Y							
+https://www.geonames.org/5432988/north-lake.html	North Lake	1				37.24002	-105.03667			Y		Y							
+https://www.geonames.org/5580437/north-poudre-reservoir-number-1.html	North Poudre Reservoir Number 1	1				40.73068	-105.12873			Y		Y							
+https://www.geonames.org/5580440/north-poudre-reservoir-number-15.html	North Poudre Reservoir Number 15	1			5738552	40.78303	-105.12066			Y		Y							
+https://www.geonames.org/5580442/north-poudre-reservoir-number-2.html	North Poudre Reservoir Number 2	1			4774034	40.72147	-105.05503			Y		Y						aka Demmel Lake	
+https://www.geonames.org/5580443/north-poudre-reservoir-number-3.html	North Poudre Reservoir Number 3	1				40.73472	-105.04298			Y		Y							
+https://www.geonames.org/5580446/north-poudre-reservoir-number-6.html	North Poudre Reservoir Number 6	1			73903	40.68018	-105.03673			Y		Y							
+https://www.geonames.org/5580477/north-sterling-reservoir.html	North Sterling Reservoir	7			2286088	40.77941091	-103.290675	10.72	1240.45	Y	Y	Y	Y	Y				tested and detected in one year	
+https://www.geonames.org/5433592/orlando-reservoir-number-2.html	Orlando Reservoir Number 2	1		chronic		37.7796	-104.80495			Y	N	Y	N			No			
+https://www.geonames.org/5433701/overland-reservoir.html	Overland Reservoir	1				39.08428	-107.64611			Y		Y							
+https://www.geonames.org/5580675/panama-reservoir-number-1.html	Panama Reservoir Number 1	1			5179752	40.09488	-105.08417			Y		Y							
+https://www.geonames.org/5433889/paonia-reservoir.html	Paonia Reservoir	3			2445940	38.95918052	-107.341641	1.36	1967.13	Y	Y	Y							
+https://www.geonames.org/5580701/park-creek-reservoir.html	Park Creek Reservoir	1				40.84184	-105.15893			Y		Y							
+https://www.geonames.org/5580724/parvin-lake.html	Parvin Lake	1				40.78831	-105.55222			Y		Y							
+https://www.geonames.org/5580784/pearl-lake.html	Pearl Lake	1				40.78596	-106.88706			N	Y		Y	N				tested and not detected in one year	
+	Pelican Pond	1								N	Y		Y	Y				found on map, not in geonames, in Del Camino CO, north east of Blue Heron Reservoir; tested and detected in two years	
+https://www.geonames.org/5434835/platoro-reservoir.html	Platoro Reservoir	2			471524	37.33969	-106.56378			Y		Y							
+https://www.geonames.org/5580990/pole-mountain-lake.html	Pole Mountain Lake	1		chronic		40.55792	-106.48147			Y	N	Y	N			Yes			
+https://www.geonames.org/5581086/prewitt-reservoir.html	Prewitt Reservoir	3		chronic	3686128	40.42243271	-103.361756	7.64	1245.96	Y	Y	Y	Y	Y		Yes		tested and detected in one year	https://cpw.state.co.us/swa/Prewitt%20Reservoir%20SWA
+https://www.geonames.org/5435406/prospect-lake.html	Prospect Lake	1		chronic		38.8252	-104.79889			N	Y		Y	Y	80909	Yes		tested and detected in multiple years	https://coloradosprings.gov/parks/page/lakes-boating-and-fishing
+https://www.geonames.org/5581111/prospect-reservoir.html	Prospect Reservoir	1			6932588	40.01528	-104.51506			Y		Y							
+https://www.geonames.org/5435476/pueblo-reservoir.html	Pueblo Reservoir	5	Yes		4455117	38.26874008	-104.765586	9.41	1470.52	Y	Y	Y	Y	N				tested and not detected in one year	
+https://www.geonames.org/5435483/puett-reservoir.html	Puett Reservoir	1		chronic		37.41861	-108.41092			Y	Y	Y	Y	Y		Yes		tested and detected in one year	https://cpw.state.co.us/swa/Puett%20Reservoir%20SWA
+https://www.geonames.org/5439620/quail-lake.html	Quail Lake	1				38.7854	-104.80818			N	Y		Y					tested and not detected in one year	
+https://www.geonames.org/5435610/quincy-reservoir.html	Quincy Reservoir	1		chronic		39.63384	-104.77621			Y	N	Y	N		80013	Yes			https://www.auroragov.org/things_to_do/reservoirs/quincy_reservoir
+https://www.geonames.org/5435754/ralston-reservoir.html	Ralston Reservoir	1	Yes			39.82718	-105.24746			Y		Y							
+https://www.geonames.org/5435783/rampart-reservoir.html	Rampart Reservoir	2			5377703	38.98079457	-104.970046	1.53	2744.43	Y	Y	Y	Y					tested and not detected in one year	
+https://www.geonames.org/5435826/rapid-creek-reservoir-number-1.html	Rapid Creek Reservoir Number 1	1				39.07953	-108.2141			Y	N	Y	N						
+https://www.geonames.org/5435827/rapid-creek-reservoir-number-2.html	Rapid Creek Reservoir Number 2	1				39.07063	-108.21525			Y		Y							
+https://www.geonames.org/5581275/red-dirt-reservoir.html	Red Dirt Reservoir	1		chronic		40.18785	-106.57456			Y	N	Y	N			Yes			https://www.fs.usda.gov/recarea/mbr/recreation/recarea/?recid=23046
+https://www.geonames.org/5436158/regan-lake.html	Regan Lake	1				37.76498	-107.23179			Y		Y							
+https://www.geonames.org/5550422/ridgway-reservoir.html	Ridgway Reservoir	3				38.23082	-107.75645			Y	Y	Y	Y	N				tested and not detected in two years	
+https://www.geonames.org/5436372/rifle-gap-reservoir.html	Rifle Gap Reservoir	1				39.63135	-107.75856			N	Y		Y	N				tested and not detected in one year	
+https://www.geonames.org/5581398/rio-blanco-lake.html	Rio Blanco Reservoir/Lake	Rio Blanco Reservoir/Lake				40.08764	-108.20791			N	Y								
+https://www.geonames.org/5436490/rio-grande-reservoir.html	Rio Grande Reservoir	3			5901650	37.72922	-107.30211			Y		Y							
+https://www.geonames.org/5436519/rito-hondo-reservoir.html	Rito Hondo Reservoir	1				37.89482	-107.17681			Y		Y							
+https://www.geonames.org/5581419/riverside-reservoir.html	Riverside Reservoir	3	Yes	chronic	1747506	40.3378	-104.26211			Y	Y	Y	Y			No		might not have data from COEPHT	https://www.uncovercolorado.com/activities/riverside-reservoir/
+https://www.geonames.org/8478307/ruedi-reservoir.html	Ruedi Reservoir	5	Yes		1353342	39.36292659	-106.784818	4.17	2368.72	Y		Y							
+https://www.geonames.org/5437216/rush-creek.html	Rush Creek	1								Y		Y							
+https://www.geonames.org/5437554/saliba-lake.html	Saliba Lake	1				37.58902	-104.6555			Y		Y							
+https://www.geonames.org/5437734/sanchez-reservoir.html	Sanchez Reservoir	2	Yes	chronic	6959773	37.09331997	-105.414418	3.09	2517.48	Y	Y	Y	Y	Y		Yes		tested in two years and detected in one year	https://www.uncovercolorado.com/activities/sanchez-reservoir-swa/
+https://www.geonames.org/5437861/santa-maria-reservoir.html	Santa Maria Reservoir	3				37.79445	-107.08567			Y	N	Y	N						
+https://www.geonames.org/5581800/seeley-lake.html	Seeley Lake	1		chronic		40.46707	-104.73599			Y	N	Y	N			Yes - private			
+https://www.geonames.org/5581853/shadow-mountain-lake.html	Shadow Mountain Lake	3				40.22755	-105.84249			Y		Y							
+https://www.geonames.org/5438412/shaw-lake.html	Shaw Lake	1		chronic		37.56266	-106.7953			Y	N	Y	N			Yes			https://www.fs.usda.gov/recarea/riogrande/recarea/?recid=29188
+https://www.geonames.org/5438959/skagway-reservoir.html	Skaguay Reservoir	1								N	Y		Y	N				tested and not detected in one year	
+https://www.geonames.org/5439099/sloan-lake.html	Sloan Lake	1		chronic		39.74809	-105.04657			N	Y		Y	Y	80212	Yes		aka Sloan's Lake; toxins tested and detected at multiple locations in one year	https://www.uncovercolorado.com/public-parks/sloans-lake-park/
+https://www.geonames.org/5439186/smith-reservoir.html	Smith Reservoir	4		chronic	3220168	37.39272777	-105.530425	2.73	2351.24	Y	Y	Y	Y	Y	81133 - maybe	Yes		toxins tested and detected in multiple years	https://cpw.state.co.us/swa/Smith%20Reservoir%20SWA
+https://www.geonames.org/5439350/soda-lakes.html	Soda Lakes	2				39.6436	-105.1736			Y	Y	Y	Y	Y				both samples are in Big Soda Lake: Toxins measured and detected in multiple years	
+https://www.geonames.org/5582158/south-delaney-lake.html	South Delaney Lake	1				40.70154	-106.46188			Y		Y							
+https://www.geonames.org/5439845/spinney-mountain-reservoir.html	Spinney Mountain Reservoir	1	Yes		1202403	38.98612383	-105.643151	9.72	2648.88	Y	Y	Y	Y	Y				toxins tested in two years and detected in one	
+https://www.geonames.org/5440018/spring-park-reservoir.html	Spring Park Reservoir	1		chronic		39.43935	-107.08882			Y	N	Y	N			No			https://www.aspentrailfinder.com/spring-park-reservoir/
+https://www.geonames.org/5437737/stabilization-reservoir.html	Stabilization Reservoir	1				37.17198	-105.51746			N	Y		Y	N				toxins tested and  not detected at one station	
+	Stagecoach Reservoir	2								Y	Y	Y	Y	Y				found on map, not in geonames; tested for toxins 6 years and only positive in two years	
+https://www.geonames.org/5440194/standley-lake.html	Standley Lake	1				39.86387	-105.12411			Y		Y							
+https://www.geonames.org/5582362/steamboat-lake.html	Steamboat Lake	2		chronic		40.79181	-106.96507			Y	N	Y	N		80428	Yes			https://cpw.state.co.us/placestogo/parks/SteamboatLake
+https://www.geonames.org/5440372/stevens-reservoir.html	Stevens Reservoir	1				37.302	-107.07301			Y		Y							
+https://www.geonames.org/5440700/summit-reservoir.html	Summit Reservoir	2		chronic	3398754	37.41651	-108.38357			Y	N	Y	N			Yes			https://cpw.state.co.us/swa/Summit%20Reservoir%20SWA
+https://www.geonames.org/5440926/swede-lake.html	Swede Lake	1		chronic		38.35879	-102.82828			Y	N	Y	N			Yes			
+https://www.geonames.org/5440931/sweetwater-lake.html	Sweetwater Lake	1				39.80009	-107.16591			Y		Y							
+https://www.geonames.org/5440964/sylvan-lake.html	Sylvan Lake	1				39.47735	-106.7318			Y		Y							
+https://www.geonames.org/5441089/tarryall-reservoir.html	Tarryall Reservoir	1				39.22889	-105.61155			Y		Y							
+https://www.geonames.org/5441140/taylor-park-reservoir.html	Taylor Park Reservoir	2	Yes		351364	38.8355	-106.58027			Y		Y							
+https://www.geonames.org/5441296/terrace-reservoir.html	Terrace Reservoir	1				37.36315	-106.2942			Y		Y							
+https://www.geonames.org/5582687/terry-lake.html	Terry Lake	2		chronic	6946216	40.62747	-105.07918			Y	N	Y	N		80524	Yes - Members only			https://www.tlra.co/
+https://www.geonames.org/5441544/thurston-reservoir.html	Thurston Reservoir	1		chronic		38.22422	-102.63543			Y	N	Y	N			Yes			https://coloradobirdingtrail.com/site/thurston-reservoir-swa/
+https://www.geonames.org/5582782/timnath-reservoir.html	Timnath Reservoir	1			1520419	40.549	-104.96072			Y		Y							
+https://www.geonames.org/5441788/totten-lake.html	Totten Reservoir/Lake	1				37.36585	-108.53076			Y	Y	Y							
+https://www.geonames.org/5442012/trinidad-lake.html	Trinidad Lake	4			4697455	37.13743969	-104.573397	3.18	1899.88	Y	Y	Y							
+https://www.geonames.org/5442068/troutvale-reservoir-number-1.html	Troutvale Reservoir Number 1	1		chronic		37.82884	-107.1836			Y	N	Y	N			Unclear		aka Brown Lakes	
+https://www.geonames.org/5442069/troutvale-reservoir-number-2.html	Troutvale Reservoir Number 2	1		chronic		37.82138	-107.19426			Y	N	Y	N			Unclear		aka Brown Lakes	
+	Turner Lake	1								Y		Y						found on map, but not in geonames	
+https://www.geonames.org/5442212/turquoise-lake.html	Turquoise Lake	6	Yes			39.26928	-106.38299			Y		Y							
+https://www.geonames.org/5442275/twin-lakes.html	Twin Lakes	3			6350518	39.08282	-106.34203			Y		Y							
+https://www.geonames.org/5442344/two-buttes-reservoir.html	Two Buttes Reservoir	1			5864846	37.6334435	-102.562542	3.07	1289.85	Y	Y	Y							
+	Unnamed Waterbody No. 1	Burke Ditch				40.55796037	-106.3574725			Y	N	Y	N					found it on map, but not in Geonames	
+	Unnamed Waterbody No. 2	Exit 8								Y		Y						no name in geonames - possibly Thornton Gravel Ponds or Gravel Lakes	
+	Unnamed Waterbody No. 3	Lee Stewart and Eskin Ditch								Y		Y						not named in geonames	
+	Unnamed Waterbody No. 4	North Metro Fire Rescue District Training Center		chronic						Y	N	Y	N					found on map, no name in geonames	
+	Unnamed Waterbody No. 5	Riddle Ditch								Y		Y						found on map, not in geonames, south of riddle ditch, antelope creek?	
+	Unnamed Waterbody No. 6	Shafer Creek								Y		Y						found on map, not in geonames, east of Shafer Creek	
+	Unnamed Waterbody No. 7	Salt Creek								Y		Y							
+https://www.geonames.org/5442764/vallecito-reservoir.html	Vallecito Reservoir	4	Yes		7596014	37.40099318	-107.551374	10.53	2337.55	Y		Y							
+https://www.geonames.org/5442881/vega-reservoir.html	Vega Reservoir	6		chronic	3763269	39.22331905	-107.795417	2.75	2432.92	Y	Y	Y	N			Yes			https://cpw.state.co.us/placestogo/parks/Vega
+https://www.geonames.org/5583162/walden-reservoir.html	Walden Reservoir	2		chronic	5500226	40.73504	-106.31513			Y	N	Y	N		80480	Yes			https://coloradobirdingtrail.com/site/walden-reservoir/
+https://www.geonames.org/5583199/warren-lake.html	Warren Lake	1		chronic		40.53307	-105.06109			Y	N	Y	N		80525, 80528	No			
+https://www.geonames.org/5583209/water-supply-and-storage-reservoir-number-3.html	Water Supply and Storage Reservoir Number 3	1		chronic		40.66537	-105.09024			Y	N	Y	N		80524 - might be too big	Yes			
+https://www.geonames.org/5443504/wellington-lake.html	Wellington Lake	1				39.31457	-105.36658			Y		Y							
+https://www.geonames.org/5444294/williams-creek-reservoir.html	Williams Creek Reservoir	3		chronic	2280837	37.51255352	-107.220867	1.35	2513.72	Y	N	Y	N			Yes		make sure to see which Williams Creek COEPHT sample came from	https://www.fs.usda.gov/recarea/sanjuan/recarea/?recid=43320
+https://www.geonames.org/5583438/williams-fork-reservoir.html	Williams Fork Reservoir	6	Yes		1357647	40.01449472	-106.209875	6.27	2379.65	Y		Y							
+https://www.geonames.org/5583474/willow-creek-reservoir.html	Willow Creek Reservoir	2		chronic		40.14717	-105.95021			Y	N	Y	N		80446 - maybe	Yes			https://www.recreation.gov/camping/gateways/94
+https://www.geonames.org/5583512/windsor-lake.html	Windsor Lake	1		chronic		40.48468	-104.90103			Y	N	Y	N		80550	Yes			https://www.recreationliveshere.com/206/Windsor-Lake
+https://www.geonames.org/5583516/windsor-reservoir.html	Windsor Reservoir	2			5498371	40.53601	-104.8879			Y		Y							
+https://www.geonames.org/5583518/windsor-reservoir-number-8.html	Windsor Reservoir Number 8	1			676119	40.6602	-105.04978			Y		Y							
+https://www.geonames.org/5583523/windy-gap-reservoir.html	Windy Gap Reservoir	1				40.10487	-105.98056			Y		Y							
+https://www.geonames.org/8094897/wolford-mountain-reservoir.html	Wolford Mountain Reservoir	1	Yes		7595953	40.14373633	-106.411338	5.19	2256.72									this waterbody is in CyAN, but does not have any data in CyAN	
+https://www.geonames.org/5444713/woods-lake.html	Woods Lake - near Aspen	1				39.42336	-106.63259			Y	Y	Y	N					which Woods Lake is the COEPHT data from? There might be a third Woods Lake	
+https://www.geonames.org/5583583/woods-lake.html	Woods Lake - near Ft. Collins	1		chronic		40.52012	-104.8049			Y	N	Y	N			Yes		which Woods Lake is the COEPHT data from?	https://www.hookandbullet.com/fishing-woods-lake-severance-co/
+		Andrick Ponds SWA								N	Y		Y	N				near Jackson Reservoir near Fort Morgan - try to get a lat/lon for this sample; toxins tesed and not detected in one year	
+		Chatfield Turtle Pond								N	Y		Y	N				found it on map, but not in Geonames, south of chatfield reservoir; toxins tested and not detected in two years	
+		Cherry Creek Dog Park								N	Y		Y	N				south of Cherry Creek Reservoir - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cpw.state.co.us/placestogo/parks/CherryCreek/Documents/CherryCreekDOL-Location.pdf; toxins tested and not detected in one sample	
+		Eagle River								N	Y		Y					ask COEPHT where this is; toxins tested and not detected only once	
+		Lower Brown Reservoir								N	Y		Y	Y				ask COEPHT to confirm location; toxins tested and detected in one sample	
+		Road Canyon Reservoir								N	Y		Y	N				Same as Road Canyon Reservoir No. 1? Ask COEPHT. tested and not detected in one year	
+		South Platte River								N	Y		Y					ask COEPHT exactly where this is; toxins tested and not detected in one year	
