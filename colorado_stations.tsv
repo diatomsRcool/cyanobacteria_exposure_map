@@ -1,8 +1,8 @@
 Waterbody Name	Station Name	Station Latitude	Station Longitude	Notes	
 Adams Lake	Adams Lake	37.40034681	-105.8541954		
-Adobe Creek Reservoir	Adobe Creek Reservoir - 1	38.2782376	-103.22823		
-Adobe Creek Reservoir	Adobe Creek Reservoir - 2	38.2738753	-103.24574		
-Adobe Creek Reservoir	Adobe Creek Reservoir - 3	38.2542156	-103.25192		
+Adobe Creek Reservoir	Adobe Creek Reservoir - 1	38.27823759	-103.2282257		
+Adobe Creek Reservoir	Adobe Creek Reservoir - 2	38.27387533	-103.2457352		
+Adobe Creek Reservoir	Adobe Creek Reservoir - 3	38.25421562	-103.251915		
 Adobe Creek Reservoir	Blue Lake Reservoir	38.23902186	-103.270096		
 Anderson Reservoir No. 1	Anderson Reservoir No. 1	39.0299577	-108.1277847		
 Anderson Reservoir No. 2	Anderson Reservoir No. 2	39.0365325	-108.1243969		
@@ -12,9 +12,9 @@ Antero Reservoir	Buffalo Creek - 1	38.99850788	-105.9307854
 Antero Reservoir	Buffalo Creek - 2	38.98283308	-105.9289742		
 Antero Reservoir	Salt Creek - Antero	38.97953033	-105.9068298		
 Arbor Lake	Arbor Lake				
-Aurora Reservoir	Aurora Reservoir - 1	39.6168125	-104.66393		
-Aurora Reservoir	Aurora Reservoir - 2	39.604994	-104.66057		
-Aurora Reservoir	Aurora Reservoir - 3	39.6104884	-104.67078		
+Aurora Reservoir	Aurora Reservoir - 1	39.61681254	-104.6639323		
+Aurora Reservoir	Aurora Reservoir - 2	39.60499395	-104.6605682		
+Aurora Reservoir	Aurora Reservoir - 3	39.61048835	-104.6707821		
 Aurora-Rampart Reservoir	Aurora-Rampart Reservoir	39.4492993	-105.0659062		
 Bacon Lake	Bacon Lake	40.31236738	-105.0625992		
 Barnes Meadow Reservoir	Barnes Meadow Reservoir	40.5979541	-105.8324342		
@@ -99,7 +99,7 @@ Dillon Reservoir	Sentinel Island	39.601587	-106.0671616
 Dillon Reservoir	Silver Dollar Island	39.5801067	-106.0529359		
 Dillon Reservoir	Snake River Arm	39.60745256	-106.0293599		
 Dillon Reservoir	Tenmile Creek	39.61802501	-106.0538737		
-Dixon Lake/Reservoir	Dixon Lake			Same as Dixon Reservoir? Check with COEPHT to see where their sample came from	
+Dixon Reservoir	Dixon Lake	40.5522625	-105.1415634	Same as Dixon Reservoir? Check with COEPHT to see where their sample came from	
 Douglas Reservoir	Douglas Reservoir - 1	40.70469902	-105.0821686		
 Douglas Reservoir	Douglas Reservoir - 2	40.69244378	-105.0801945		
 Dowdy Lake	Dowdy Lake Dam	40.79572709	-105.5590332		
@@ -174,10 +174,11 @@ Hollenbeck Reservoir Number 2	Hollenbeck Reservoir Number 2	39.01619387	-108.135
 Homestake Reservoir	Homestake Reservoir - 1	39.34852672	-106.4730209		
 Homestake Reservoir	Homestake Reservoir - 2	39.35668458	-106.4674747		
 Homestake Reservoir	South Portal Outlet	39.36335928	-106.4661026		
-Horse Creek Reservoir	Horse Creek Dam	38.16137279	-103.4057236		
-Horse Creek Reservoir	Horse Creek Reservoir - 1	40.00208615	-104.5795441		
-Horse Creek Reservoir	Horse Creek Reservoir - 2	39.99330231	-104.5785141		
-Horse Creek Reservoir	Lewis Ranch	38.19360779	-103.391304		
+Horse Creek Reservoir A	Horse Creek Dam	38.16137279	-103.4057236		
+Horse Creek Reservoir B	Horse Creek Reservoir - 1	40.00208615	-104.5795441		
+Horse Creek Reservoir B	Horse Creek Reservoir - 2	39.99330231	-104.5785141		
+Horse Creek Reservoir A	Horse Creek Reservoir - 3	38.17811909	-103.4053802
+Horse Creek Reservoir A	Lewis Ranch	38.19360779	-103.391304		
 Horseshoe Lake	Horseshoe Lake	40.44420781	-105.0553894		
 Horseshoe Lake Reservoir	Horseshoe Lake Reservoir	37.60890008	-104.8464288		
 Horsetooth Reservoir	Dixon Canyon Dam	40.54987334	-105.1537609		
@@ -190,6 +191,7 @@ Hourglass Reservoir	Hourglass Reservoir	40.57847615	-105.6319265
 Indian Creek Reservoir	Indian Creek Reservoir	40.74843606	-104.953168		
 Ish Reservoir	Ish Reservoir	40.25890665	-105.0933529		
 Island Lake	Island Lake	39.03715311	-108.0000687		
+Jackson Gulch Reservoir	Jackson Gulch Reservoir	37.40191585	-108.2740942
 Jackson Reservoir	Jackson Lake Dam	40.3796555	-104.082756		
 Jackson Reservoir	Jackson Reservoir - 1	40.384594	-104.0690796		
 Jackson Reservoir	Jackson Reservoir - 2	40.39793231	-104.0597534		
@@ -330,7 +332,7 @@ Paonia Reservoir	Paonia Reservoir SRA	38.95198233	-107.3427253
 Paonia Reservoir	Williams Creek	38.97233334	-107.3390207	make sure to see which Williams Creek COEPHT sample came from	
 Park Creek Reservoir	Park Creek Reservoir	40.84203072	-105.1580429		
 Parvin Lake	Haviland Dam	40.78505167	-105.5562973		
-Pearl Lake	Pearl Lake				
+Pearl Lake	Pearl Lake	40.78807957	-106.8864748		
 Pelican Pond	Pelican Pond			ask COEPHT where this is	
 Platoro Reservoir	Platoro Dam	37.34790459	-106.5488434		
 Platoro Reservoir	Platoro Reservoir	37.33726686	-106.5673828		

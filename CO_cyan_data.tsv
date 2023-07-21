@@ -1,0 +1,1 @@
+input_latitude,input_longitude,locationName,requestTimestamp,queryDate,imageDate,satelliteImageType,satelliteImageFrequency,cellConcentration_cells/mL,maxCellConcentration_cells/mL,cell_latitude,cell_longitude,validCellsCount,waterbody

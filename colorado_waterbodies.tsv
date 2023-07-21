@@ -57,7 +57,7 @@ https://www.geonames.org/5418474/crawford-reservoir.html	Crawford Reservoir	2			
 https://www.geonames.org/5576160/curtis-lake.html	Curtis Lake	1				40.66382	-105.13259			Y		Y							
 https://www.geonames.org/5419532/deweese-dye-reservoir.html	Deweese-Dye Reservoir	4		chronic	4540968	38.20268348	-105.463425	1.29	2337.42	Y	Y	Y	Y	Y	81252 - if prevailing winds are blowing to the south	Yes		Toxins measured and detected in multiple years	https://en.wikipedia.org/wiki/DeWeese_Reservoir
 https://www.geonames.org/5419615/dillon-reservoir.html	Dillon Reservoir	8	Yes	chronic	3245597	39.60157872	-106.057963	13.03	2749.94	Y	Y	Y	Y	N	80435	Yes		only tested for toxins once	https://www.summitcountyco.gov/234/Dillon-Reservoir-Recreation
-https://www.geonames.org/5576412/dixon-reservoir.html	Dixon Lake/Reservoir	Dixon Lake/Reservoir				40.54999	-105.14093			N	Y	Y	Y	N				only tested for toxins once	
+https://www.geonames.org/5576412/dixon-reservoir.html	Dixon Reservoir	1				40.54999	-105.14093			N	Y	Y	Y	N				only tested for toxins once	
 https://www.geonames.org/5576461/douglas-reservoir.html	Douglas Reservoir	2			3327301	40.702462	-105.082418	2.13	1586.99	Y	Y	Y	Y	N				Toxins measured in two years and not detected	
 https://www.geonames.org/5576482/dowdy-lake.html	Dowdy Lake	1								Y	Y	Y	Y	N				geonames centroid seems off: toxins measured in one year and not detected	
 https://www.geonames.org/5420775/eastdale-reservoir-number-1.html	Eastdale Reservoir Number 1	1				37.05424	-105.61201			Y		Y							
@@ -99,7 +99,8 @@ https://www.geonames.org/5425224/holbrook-reservoir.html	Holbrook Reservoir	2		c
 https://www.geonames.org/5425237/holita-reservoir.html	Holita Reservoir	1		chronic		37.65973	-104.74153			Y	N	Y	N			Unclear			
 https://www.geonames.org/5425242/hollenbeck-reservoir-number-two.html	Hollenbeck Reservoir Number 2	1				39.01644	-108.13536			Y		Y							
 https://www.geonames.org/5425308/homestake-reservoir.html	Homestake Reservoir	3	Yes		991959	39.35789534	-106.467996	1.35	3128.96	Y		Y							
-https://www.geonames.org/5425482/horse-creek-reservoir.html	Horse Creek Reservoir	4		chronic		38.17615	-103.40098			Y	N	Y	N			Yes		aka timber Lake	https://cpw.state.co.us/swa/Horse%20Creek%20Reservoir%20SWA%20(Timber%20Lake)
+https://www.geonames.org/5578134/horse-creek-reservoir.htmlHorse Creek Reservoir B	2			5178699	39.99718446	-104.579742			Y		Y						
+https://www.geonames.org/5425482/horse-creek-reservoir.html	Horse Creek Reservoir A	3		chronic	6299318	38.17615	-103.40098			Y	N	Y	N			Yes		aka timber Lake	https://cpw.state.co.us/swa/Horse%20Creek%20Reservoir%20SWA%20(Timber%20Lake)
 https://www.geonames.org/5578151/horseshoe-lake.html	Horseshoe Lake	1				40.43954	-105.05634			Y		Y							
 https://www.geonames.org/5425573/horseshoe-lake-reservoir.html	Horseshoe Lake Reservoir	Horseshoe Lake Reservoir				37.60831	-104.84646			Y	Y	Y	Y	N				aka Horseshoe Reservoir; toxins tested in two years and not detected	
 https://www.geonames.org/5578164/horsetooth-reservoir.html	Horsetooth Reservoir	6	Yes		3002077	40.55826541	-105.159478	7.36	1645.11	Y	Y	Y	Y						
@@ -107,7 +108,8 @@ https://www.geonames.org/5578177/hourglass-reservoir.html	Hourglass Reservoir	1	
 https://www.geonames.org/5578306/indian-creek-reservoir.html	Indian Creek Reservoir	1		chronic		40.74851	-104.95481			Y	N	Y	N			Yes			
 https://www.geonames.org/5578377/ish-reservoir.html	Ish Reservoir	1		chronic	6811866	40.25776	-105.09111			Y	N	Y	N		80513 - maybe	No			https://coloradobirdingtrail.com/site/ish-reservoir/
 https://www.geonames.org/5426248/island-lake.html	Island Lake	1				39.0376	-107.99873			N	Y	Y	Y	N				toxins tested and not detected in one year	
-https://www.geonames.org/5578429/jackson-reservoir.html	Jackson Reservoir/Lake	5		chronic	1988702	40.39189132	-104.073692	9.85	1350.36	Y	Y	Y	Y	Y		Yes		toxins tested in two years and detected in one year	https://cpw.state.co.us/placestogo/parks/JacksonLake
+https://www.geonames.org/5426394/jackson-gulch-reservoir.html	Jackson Gulch Reservoir	1			37.40428	-108.27067		Y		Y			Yes			
+https://www.geonames.org/5578429/jackson-reservoir.html	Jackson Reservoir	5		chronic	1988702	40.39189132	-104.073692	9.85	1350.36	Y	Y	Y	Y	Y		Yes		toxins tested in two years and detected in one year	https://cpw.state.co.us/placestogo/parks/JacksonLake
 https://www.geonames.org/5426605/joe-moore-reservoir.html	Joe Moore Reservoir	1				37.42268	-108.31653			N	Y		Y	Y				toxins tested in two years and detected in one year	
 https://www.geonames.org/5426638/john-martin-reservoir.html	John Martin Reservoir	3			3729695	38.0730372	-103.028006	47.29	1174.28	Y	Y	Y	Y	N				only tested for toxins once, but cells observed for four years	
 https://www.geonames.org/5578571/julesburg-reservoir.html	Julesburg Reservoir	7		chronic		40.93137	-102.65055			Y	N	Y	N			Yes			https://www.colorado.com/wildlife-viewing-refuges/jumbo-reservoir-state-wildlife-area
