@@ -19,7 +19,9 @@ for water in waterbodies:
 	recreation = row[16]
 	tox_test = row[13]
 	tox_conf = row[14]
-	wdict[name] = {'geonames':geonames_url, 'drinking':drinking, 'cyan_id': cyan_id, 'recreation':recreation, 'toxins confirmed':tox_conf, 'toxins_tested':tox_test}
+	centroid_lat = row[6]
+	centroid_lon = row[7]
+	wdict[name] = {'geonames':geonames_url, 'drinking':drinking, 'cyan_id': cyan_id, 'recreation':recreation, 'toxins confirmed':tox_conf, 'toxins_tested':tox_test, 'centroid_lat':centroid_lat, 'centroid_lon':centroid_lon}
 
 #create a dictionary with information about the station, with waterbody name as the key
 next(stations)
@@ -42,7 +44,7 @@ res = {k: {**wdict.get(k, {}), **sdict.get(k, {})} for k in keys}
 
 #quality control - this should be 273
 print(len(res))
-print(res)
+
 #export merged dictionary as json file
 with open("waterbody_station_data.json", "w") as outfile:
     json.dump(res, outfile)
